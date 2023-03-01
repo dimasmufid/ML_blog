@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ML_blog"
+  site-url: "https://dimasmufid.github.io/ML_blog"
+  description: "Blogging about my machine learning journey"
+  repo-branch: main
+  repo-url: "https://github.com/dimasmufid/ML_blog"
